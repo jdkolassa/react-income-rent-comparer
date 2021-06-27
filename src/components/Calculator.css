@@ -1,0 +1,27 @@
+.critical {
+    background-color: red;
+}
+
+.danger {
+    background-color: orangered;
+}
+
+.stanch {
+    background-color: yellow;
+}
+
+.treading {
+    background-color: white;
+}
+
+.survive {
+    background-color:lightgreen;
+}
+
+.thrive {
+    background-color:limegreen;
+}
+
+.error {
+    background-color:fuchsia;
+}
